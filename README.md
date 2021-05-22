@@ -7,7 +7,7 @@
 This repo contains implementations of a coupled oscillator model following the complex Stuart-Landau equations (CSLE) on a 2D lattice.  
 The code is available in Python and Julia.  
 
-**Ref.:** Aranso, I.S., Kramer, L., The world of the complex Ginzburg-Landau equation. __*Rev Mod Phys*__ 74(1):99-143, 2002.
+**Ref.:** Aranson, I.S., Kramer, L., The world of the complex Ginzburg-Landau equation. __*Rev Mod Phys*__ 74(1):99-143, 2002.
 
 **Rendered page:** https://frederic-vw.github.io/csle-2d/
 
