@@ -1,8 +1,6 @@
 # Complex Stuart-Landau lattice model in *Python* and *julia*
 
-<!--
-[![DOI](zenodo.4771538.svg)](https://zenodo.org/badge/latestdoi/359287694)
--->
+[![DOI](369921837.svg)](https://doi.org/10.5281/zenodo.4781775)
 
 This repo contains implementations of a coupled oscillator model following the complex Stuart-Landau equations (CSLE) on a 2D lattice.  
 The code is available in Python and Julia.  
